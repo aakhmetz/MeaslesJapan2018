@@ -13,7 +13,7 @@ Supporting materials for Akhmetzhanov AR, Lee H, Jung S-M, et al (2018) Real tim
 ---
 
 Code scripts consists of two notebooks:
-* "[*A. Main analysis [R].ipynb*](A._Main_analysis_[R].ipynb)" presents the code that was used to run simulations and generate the results in the main part paper,
+* "[*A. Main analysis [R].ipynb*](A.%20Main%20analysis%20%5BR%5D.ipynb)" presents the code that was used to run simulations and generate the results in the main part paper,
 * "[*B. Considering also time varied delay function [R].ipynb*](B._Considering_also_time_varied_delay_function_[R].ipynb)" shows the code that was used to perform additional analysis for time-varying delay function (see Appendix B).
 
 Additionally, there is data-file "data.xlsx" used in our study.
