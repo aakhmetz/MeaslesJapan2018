@@ -1,6 +1,6 @@
 # MeaslesJapan2018
 
-Supporting materials for Akhmetzhanov AR, Lee H, Jung S-M, et al (2018) Real time forecasting of measles using generation-dependent mathematical model in Japan, 2018. *Accepted for PLoS Currents Outbreaks*
+Supporting materials for Akhmetzhanov AR, Lee H, Jung S-M, et al (2018) Real time forecasting of measles using generation-dependent mathematical model in Japan, 2018. *PLoS Currents Outbreaks*
 
 **Background:** Japan experienced a multi-generation outbreak of measles from March to May, 2018. The present study aimed to capture the transmission dynamics of measles by employing a simple mathematical model, and also forecast the future incidence of cases. 
 
