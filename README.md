@@ -17,3 +17,7 @@ Code scripts consists of two notebooks:
 * "[*B. Considering also time varied delay function [R].ipynb*](https://nbviewer.jupyter.org/github/aakhmetz/MeaslesJapan2018/blob/master/B.%20Considering%20also%20time%20varied%20delay%20function%20%5BR%5D.ipynb)" shows the code that was used to perform additional analysis for time-varying delay function (see Appendix B).
 
 Additionally, there is a data-file "data.xlsx" used in our study.
+
+---
+
+Written by Andrei R. Akhmetzhanov 2018
